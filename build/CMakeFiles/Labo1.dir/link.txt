@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Labo1.dir/labo1.c.o -o Labo1  -lmariadb 
